@@ -1,0 +1,30 @@
+_repo: Moving-Pictures-How-They-Are-Made-and-Worked_67972
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Talbot, Frederick Arthur Ambrose
+    alias: Talbot, Frederick A.
+    birthdate: 1880
+    deathdate: 1924
+    gutenberg_agent_id: '417'
+    url: http://www.gutenberg.org/2009/agents/417
+description: ''
+gutenberg_issued: '2022-05-02'
+identifiers:
+  gutenberg: '67972'
+language: en
+pgterms:marc904: https://archive.org/details/movingpicturesho00talb
+pgterms:marc905: 20210324092648talbot
+pgterms:marc906: '1914'
+pgterms:marc907: US
+production_note: deaurider, Charlie Howard, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: United States :J. B. Lippincott,1914.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Moving Pictures: How They Are Made and Worked'
+url: http://www.gutenberg.org/ebooks/67972
